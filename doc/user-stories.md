@@ -20,3 +20,4 @@ As Maria, I want to track my progress over time so that I can see how my memoriz
 
 ## User Story 7:
 As Ana, I want to track the progress of all my students, so that I can focus on their mistakes in class.
+
